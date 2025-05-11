@@ -29,7 +29,7 @@ body{
     }
   .offcanvas a:after{
       content:"";
-      position:absolute;
+      position: absolute;
       left: 0;
       width: 0;
       height: 2px;
